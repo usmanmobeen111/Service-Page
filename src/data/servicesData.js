@@ -1,37 +1,37 @@
 const servicesData = [
   {
     id: 1,
-    icon: "/icons/webdev.svg",
+    icon: "/webdev.jpg",
     title: "Web Development",
     description: "Custom websites built for performance, scalability, and beauty."
   },
   {
     id: 2,
-    icon: "/icons/uiux.svg",
+    icon: "/ui-ux.jpg",
     title: "UI/UX Design",
     description: "Designs that marry aesthetics with functionality for great user experiences."
   },
   {
     id: 3,
-    icon: "/icons/seo.svg",
+    icon: "/seo.jpg",
     title: "SEO Optimization",
     description: "Boost your online presence and outrank competitors in search results."
   },
   {
     id: 4,
-    icon: "/icons/branding.svg",
+    icon: "/branding.jpg",
     title: "Brand Identity",
     description: "Crafting memorable brands that tell your story."
   },
   {
     id: 5,
-    icon: "/icons/marketing.svg",
+    icon: "/marketing.jpg",
     title: "Digital Marketing",
     description: "Strategies that convert clicks into loyal customers."
   },
   {
     id: 6,
-    icon: "/icons/consulting.svg",
+    icon: "/consulting.jpg",
     title: "Tech Consulting",
     description: "Helping you make the right technology decisions for your business."
   }

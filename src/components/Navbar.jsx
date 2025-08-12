@@ -56,7 +56,7 @@ const Navbar = () => {
             {menuOpen ? (
               <FiX className="text-2xl" />
             ) : (
-              <FiMenu className="text-3xl cursor-pointer text-primary" />
+              <FiMenu className="text-3xl cursor-pointer text-white" />
             )}
           </button>
         </div>

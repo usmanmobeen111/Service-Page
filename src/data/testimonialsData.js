@@ -1,18 +1,25 @@
 const testimonialsData = [
   {
-    id: 1,
-    name: "Ayesha Khan",
-    role: "CEO, LuxeLiving",
-    message: "They transformed our website into a stunning, high-performing platform. Our traffic and sales soared!",
-    avatar: "/avatars/ayesha.jpg"
+    name: "John Doe",
+    role: "CEO, TechWave",
+    feedback:
+      "The service exceeded my expectations. The team was professional, responsive, and truly cared about our success.",
+    image: "https://randomuser.me/api/portraits/men/32.jpg",
   },
   {
-    id: 2,
-    name: "Ali Raza",
-    role: "Founder, FreshBites",
-    message: "Professional, creative, and always on time. Couldn’t ask for more.",
-    avatar: "/avatars/ali.jpg"
-  }
+    name: "Sarah Johnson",
+    role: "Marketing Head, BrightEdge",
+    feedback:
+      "Absolutely outstanding work! From start to finish, the process was seamless and the results were phenomenal.",
+    image: "https://randomuser.me/api/portraits/women/44.jpg",
+  },
+  {
+    name: "Michael Lee",
+    role: "Founder, InnovateX",
+    feedback:
+      "They transformed our ideas into reality with precision and creativity. Highly recommend working with them!",
+    image: "https://randomuser.me/api/portraits/men/12.jpg",
+  },
 ];
 
 export default testimonialsData;
